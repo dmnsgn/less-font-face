@@ -9,7 +9,7 @@ $ npm install less-font-face --save
 
 ## Usage
 
-```css
+```less
 @import "../node_modules/less-font-face/_font-face.less";
 
 @font-regular: 'Open Sans Regular';
