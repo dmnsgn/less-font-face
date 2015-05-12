@@ -1,5 +1,6 @@
 {
   "name": "less-font-face",
+  "main": "_font-face.less",
   "version": "1.0.0",
   "description": "Font-face mixin for less",
   "repository": {
