@@ -1,6 +1,7 @@
 {
   "name": "less-font-face",
-  "version": "1.0.0",
+  "main": "_font-face.less",
+  "version": "1.0.1",
   "description": "Font-face mixin for less",
   "repository": {
     "type": "git",
